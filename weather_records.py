@@ -17,3 +17,4 @@ for row in weather.find_all('tr'):
         content.append([element.text for element in row.find_all('td')])
 weather_records=pd.DataFrame(content,columns=header_table)
 print(weather_records)
+weather_records.to_csv('datasets/weather_records.csv', index=False)
