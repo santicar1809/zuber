@@ -3,14 +3,14 @@ Estás trabajando como analista para Zuber, una nueva empresa de viajes comparti
 Al trabajar con una base de datos, analizarás los datos de los competidores y probarás una hipótesis sobre el impacto del clima en la frecuencia de los viajes.
 ## Descripción de los datos
 ### Una base de datos con información sobre viajes en taxi en Chicago:
-tabla neighborhoods: datos sobre los barrios de la ciudad  
+1. tabla neighborhoods: datos sobre los barrios de la ciudad  
 - name: nombre del barrio
 - neighborhood_id: código del barrio  
-tabla cabs: datos sobre los taxis  
+2. tabla cabs: datos sobre los taxis  
 - cab_id: código del vehículo
 - vehicle_id: ID técnico del vehículo
 - company_name: la empresa propietaria del vehículo  
-tabla trips: datos sobre los viajes
+3. tabla trips: datos sobre los viajes
 - trip_id: código del viaje
 - cab_id: código del vehículo que opera el viaje
 - start_ts: fecha y hora del inicio del viaje (tiempo redondeado a la hora)
@@ -19,7 +19,7 @@ tabla trips: datos sobre los viajes
 - distance_miles: distancia del viaje en millas
 - pickup_location_id: código del barrio de recogida
 - dropoff_location_id: código del barrio de finalización  
-tabla weather_records: datos sobre el clima
+4. tabla weather_records: datos sobre el clima
 - record_id: código del registro meteorológico
 - ts: fecha y hora del registro (tiempo redondeado a la hora)
 - temperature: temperatura cuando se tomó el registro
