@@ -24,3 +24,5 @@ Al trabajar con una base de datos, analizarás los datos de los competidores y p
 - ts: fecha y hora del registro (tiempo redondeado a la hora)
 - temperature: temperatura cuando se tomó el registro
 - description: breve descripción de las condiciones meteorológicas, por ejemplo, "lluvia ligera" o "nubes dispersas"
+## Diagrama ER
+    ![image]
