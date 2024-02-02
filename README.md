@@ -38,7 +38,7 @@ Al trabajar con una base de datos, analizarás los datos de los competidores y p
 
 ## Diagrama ER
 
-    ![image](https://github.com/santicar1809/zuber/blob/master/datasets/238116676-2edba3f3-131c-40eb-b0d0-273d6213d7db.png)
+![Alt text](https://github.com/santicar1809/zuber/blob/master/datasets/238116676-2edba3f3-131c-40eb-b0d0-273d6213d7db.png)
 
 ## Preguntas SQL  
 
@@ -99,4 +99,6 @@ Estos son los valores de campo de la tabla:
 
 ## Gráficos
 
-1. 
+![Alt text](https://github.com/santicar1809/zuber/blob/master/datasets/barplot_hoods)
+
+![Alt text](https://github.com/santicar1809/zuber/blob/master/datasets/barplot_company)
