@@ -1,0 +1,8 @@
+,0
+var_good,597389.5417434273
+var_bad,561003.0958728999
+good_trips_mean,2032.253112033195
+bad_trips_mean,2409.2297297297296
+t-statistic,-5.427957689754561
+p-value,7.397770692813658e-08
+result,Rechazamos la hipótesis nula
